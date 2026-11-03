@@ -18,16 +18,13 @@ AI responses, shopping results, image matching, purchases and trades are simulat
 ## Pink shopping redesign
 The header now offers a global catalog search and Home / Shop / Preloved / Learn navigation. Home shows six looks initially, with more on request; shopping filters expand only when needed. The Learn creator accepts a written goal and optional local image, then selects and adapts DIY, hijab or styling templates. Guides include materials, time, cost, steps, completion and browser-local saving. Images are reference previews; there is no image analysis or live generative AI.
 
-## Khadidja's Malibu story demo
-Open the published website with `/#malibu` or choose **Malibu story demo** in the navigation.
+## Regular-site demo options
+The original pink storefront is preserved. There is no separate story page or guided walkthrough.
 
-Presentation click path:
-1. Start Khadidja's story → Find my dress → Choose the $39 sample offer.
-2. Next: style her blouse → upload a photo or Use her sample blouse.
-3. Answer No to the white skirt, No to the belt, then choose Cream hijab.
-4. Build my looks → optionally add the $18 straw tote.
-5. Save & pack all 3 → View her suitcase → Ready for Malibu.
+For Khadidja’s example:
+1. Use the normal search for “light blue polka-dot summer dress under $50.” Open the $39 dress and select Style with my wardrobe. Save the beach outfit.
+2. Go to My Wardrobe. Upload a blouse with Add a piece (Tops), then choose Style it. A seeded blush blouse is also available.
+3. In the normal stylist panel, answer No to a white skirt, No to a belt, then choose the cream hijab.
+4. Choose Save all 3 looks. Open Saved → Malibu trip to see three outfits and $93 in unique new pieces, including the optional tote. Using owned items or the preloved dress reduces the total.
 
-Example outcome: dress $39 + white skirt $24 + belt $12 + optional tote $18 = **$93** for three looks. Owned pieces are $0 in new spending; repeated pieces count once. Shipping and taxes are excluded. Own-item answers, skipping the belt, choosing the $34 preloved dress, and the tote toggle update the total. Saved looks appear in the app's Saved page; the blouse appears in My Wardrobe. Uploaded photos remain session-only. The guided journey persists in localStorage and has a Restart story action that retains existing saved outfits.
-
-Search, retailer offers, personalization, and stylist responses are simulations using local sample data. No scraping, stock checks, image analysis, payment or message delivery occurs. Five minutes and under $100 are illustrative targets. The final print view provides a landscape story summary for presentation use.
+Search listings and stylist replies are hardcoded simulations. No live scraping, stock check, payment or message delivery occurs. Sample prices exclude shipping and tax. Image uploads remain local to the session.

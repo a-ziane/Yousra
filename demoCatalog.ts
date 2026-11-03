@@ -1,0 +1,8 @@
+export type DemoProduct={id:number,name:string,category:string,color:string,hex:string,price:number,store:string,owned?:boolean,preloved?:boolean,size:string,fabric:string,fit:string,season?:string,image?:string};
+export const malibuProducts:DemoProduct[]=[
+{id:2000,name:'Light blue polka-dot summer maxi dress',category:'Dresses',color:'Blue',hex:'#aac9df',price:39,store:'Seaside Studio · sample',size:'M',fabric:'Lined cotton',fit:'Loose · opaque · long sleeves · high neckline',season:'Summer'},
+{id:2001,name:'Light blue polka-dot maxi dress — preloved',category:'Dresses',color:'Blue',hex:'#aac9df',price:34,store:'Lina’s closet · sample',preloved:true,size:'M',fabric:'Lined cotton',fit:'Loose · opaque · long sleeves · high neckline',season:'Summer'},
+{id:2002,name:'Light blue polka-dot maxi dress — boutique offer',category:'Dresses',color:'Blue',hex:'#aac9df',price:59,store:'Bluebird Modest · sample',size:'M',fabric:'Lined cotton',fit:'Loose · opaque · long sleeves · high neckline',season:'Summer'},
+{id:2003,name:'Khadidja’s blush cotton blouse',category:'Tops',color:'Rose',hex:'#cf9caa',price:28,store:'Khadidja’s wardrobe',owned:true,size:'M',fabric:'Cotton',fit:'Loose · opaque · long sleeves · long hem',season:'Summer'},
+{id:2004,name:'White cotton maxi skirt',category:'Bottoms',color:'White',hex:'#f5f1e7',price:24,store:'Everyday Edit · sample',size:'M',fabric:'Cotton',fit:'Relaxed · opaque · ankle length',season:'Summer'},
+{id:2005,name:'Tan slim waist belt',category:'Accessories',color:'Brown',hex:'#b18b62',price:12,store:'Everyday Edit · sample',size:'M',fabric:'Faux leather',fit:'Adjustable · optional',season:'Summer'}];
