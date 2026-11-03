@@ -28,3 +28,6 @@ For Khadidja’s example:
 4. Choose Save all 3 looks. Open Saved → Malibu trip to see three outfits and $93 in unique new pieces, including the optional tote. Using owned items or the preloved dress reduces the total.
 
 Search listings and stylist replies are hardcoded simulations. No live scraping, stock check, payment or message delivery occurs. Sample prices exclude shipping and tax. Image uploads remain local to the session.
+
+## Demo purchases
+Search cards and product previews include Buy now. The checkout lets the user select a size and confirm a simulated, quantity-one purchase. It stores a local purchase record, adds the piece to My Wardrobe, and offers styling next. Purchases are accessible from the shopping-bag button in the header and persist across reloads. Reopening a purchased item shows its existing record rather than creating a duplicate. There are no payment fields or external orders; tax, shipping and live stock are not calculated. Trip spending includes completed demo purchases, even though those items now count as owned when calculating remaining additions.
