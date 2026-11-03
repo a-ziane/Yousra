@@ -5,6 +5,7 @@ export const featuredIDs=[1000,1001,1002,1003,0,1];
 const covers:{items:number[],src:string}[]=[{items:[0,1,2,3,13],src:campus},{items:[10,7,8,9,6],src:neutral},{items:[1000,1005,2,1001,13],src:sage},{items:[1004,1005,2,1001,13],src:stripes},{items:[1002,8,1001,13],src:ivory},{items:[1003,2,3,6],src:rose}];
 export function outfitPhoto(items:number[]){return covers.find(c=>c.items.length===items.length&&c.items.every((id,i)=>items[i]===id))?.src}
 export const photoCrops:Record<number,Crop>={
+2000:{src:img('malibu-polka-dress'),rect:[0,0,1,1]},2001:{src:img('malibu-polka-dress'),rect:[0,0,1,1]},2002:{src:img('malibu-polka-dress'),rect:[0,0,1,1]},2003:{src:img('malibu-blouse'),rect:[0,0,1,1]},2004:{src:neutral,rect:[.50,.21,.49,.77]},
 0:{src:campus,rect:[.025,.01,.52,.68]},1:{src:campus,rect:[.535,.25,.43,.745]},2:{src:stripes,rect:[.71,.055,.28,.43]},3:{src:campus,rect:[.34,.72,.18,.23]},13:{src:campus,rect:[.035,.69,.27,.275]},
 10:{src:neutral,rect:[.02,.04,.485,.52]},7:{src:neutral,rect:[.50,.21,.49,.77]},8:{src:neutral,rect:[.48,.025,.265,.45]},9:{src:neutral,rect:[.025,.595,.24,.295]},6:{src:neutral,rect:[.28,.56,.24,.32]},
 1000:{src:sage,rect:[.005,.005,.48,.675]},1005:{src:sage,rect:[.37,.19,.43,.79]},1001:{src:sage,rect:[.78,.64,.195,.26]},1002:{src:ivory,rect:[.008,0,.64,.99]},1003:{src:rose,rect:[.055,.005,.59,.99]},1004:{src:stripes,rect:[.015,.035,.435,.68]}
