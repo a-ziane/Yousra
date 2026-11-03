@@ -1,0 +1,21 @@
+# Realistic fashion imagery
+
+Created with the built-in image generation tool. These are AI-generated sample photographs, not retailer photographs or verified listings. Optimized project images are in `public/images/`.
+
+## campus-linen.jpg
+Use case: product-mockup. Create a photorealistic overhead fashion flat lay for a modest-fashion shopping app, square image. On a warm off-white studio surface arrange exactly these real garments as one complete summer outfit: opaque loose long-sleeved ivory linen button-down tunic reaching mid-thigh, relaxed light blue straight-leg jeans, cream modal hijab scarf softly draped, clean white low-top trainers, small natural straw woven tote bag. Premium e-commerce clothing photography, real woven fabric texture, seams and natural folds, soft window sunlight, crisp detail. No people, no mannequin, no text, no logos, no frame. All five pieces distinct, entire garments visible, carefully spaced with no overlaps obscuring items. Warm airy summer atmosphere, editorial but approachable. This must look like a real photo, not an illustration or 3D render.
+
+## soft-neutrals.jpg
+A photorealistic overhead modest-fashion summer outfit flat lay. Warm off-white studio background, soft natural sunlight, exceptionally realistic cotton and linen textures, no text logos people or mannequins. Exactly five complete items separately arranged with gentle natural folds and no obscuring overlaps: opaque white long-sleeved crewneck cotton tee, flowing opaque ivory ankle-length maxi skirt, muted dusty rose modal hijab scarf, chocolate brown leather loafers, espresso brown small shoulder bag. Entire garments and both shoes visible. Elegant high quality online clothing-store product photography, square image. Not a drawing, not CGI.
+
+## summer-sage.jpg
+Photorealistic overhead summer outfit flat lay for a modest-fashion catalog, square. Exactly five real items artfully arranged separately on warm ivory studio backdrop: an opaque sage green linen long-sleeved oversized button-down shirt with a long modest hem, loose ivory full-length linen trousers, cream modal hijab scarf, tan leather flat sandals, a natural straw woven tote. Natural folds and stitching, linen fibres, subtle sun shadows. No text, no brands, no people or mannequins. All garments fully visible, polished summer ecommerce photography, realistic not illustration or render.
+
+## summer-ivory-dress.jpg
+Photorealistic overhead summer dress outfit flat lay, square premium e-commerce photography. Warm off-white backdrop in soft daylight. Exactly four items, each fully visible and clearly separate: an ivory opaque lined cotton maxi dress with long loose sleeves, high round neckline, relaxed unbelted silhouette and subtle tiered skirt reaching ankles; a muted dusty rose modal hijab scarf; tan flat leather sandals; natural straw woven tote bag. Real fabric weave and natural folds, stitching and soft contact shadows. Fresh modest summer styling. No people, mannequin, illustration, CGI, text, logos or watermarks.
+
+## summer-rose-dress.jpg
+Photorealistic overhead fashion flat lay of a complete modest summer dress outfit, square high quality clothing catalog photograph. Exactly four items arranged separately and fully visible on a pale warm ivory studio surface: a muted dusty rose opaque cotton long-sleeved ankle-length maxi dress with high round neckline, relaxed flowing silhouette and gently gathered skirt, a cream modal hijab scarf, white low-top trainers, a small espresso brown shoulder bag. Real woven fabric, believable seams, natural wrinkles and soft daylight shadows. Light summery feel. No people, no mannequin, no text logos, no drawing or 3D rendering.
+
+## summer-stripes.jpg
+Photorealistic overhead summer fashion flat lay on an ivory studio surface, square premium e-commerce photograph. Exactly five separate fully visible items: a blue and white narrow striped opaque cotton oversized long-sleeved button-down tunic shirt with a long hem; relaxed full-length ivory linen wide-leg trousers; a cream modal hijab scarf; tan flat leather sandals; a natural straw woven tote bag. Real cotton texture and realistic wrinkles, natural bright summer window light, soft shadows, airy clean spacing, practical modest student fashion. No people, no mannequin, no text logos watermarks, no illustration or CGI.
