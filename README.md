@@ -1,4 +1,4 @@
-# Noura
+# Yoursa
 A React + TypeScript + Vite modest-fashion UX prototype.
 
 ## Run
@@ -31,3 +31,6 @@ Search listings and stylist replies are hardcoded simulations. No live scraping,
 
 ## Demo purchases
 Search cards and product previews include Buy now. The checkout lets the user select a size and confirm a simulated, quantity-one purchase. It stores a local purchase record, adds the piece to My Wardrobe, and offers styling next. Purchases are accessible from the shopping-bag button in the header and persist across reloads. Reopening a purchased item shows its existing record rather than creating a duplicate. There are no payment fields or external orders; tax, shipping and live stock are not calculated. Trip spending includes completed demo purchases, even though those items now count as owned when calculating remaining additions.
+
+## Yoursa brand
+Name: Yoursa. Slogan: “Find Soutra with Yousra”. Palette 4, Apricot & Cocoa: #FFFAF3, #F0D9BD, #D69A72, #77543D, #332B26. The homepage describes modest personal style across occasions, with summer retained only as an optional collection/filter. Existing browser storage keys are preserved to keep saved outfits and demo purchases.
